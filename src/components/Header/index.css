@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.header {
+  width: 100%;
+  background-color: #cbd5e1;
+  text-align: center;
+  color: #475569;
+  font-family: 'Roboto';
+  width: 90vw;
+  margin: auto;
+  margin-top: 3px;
+  margin-bottom: 3px;
+  padding: 15px 10px 15px 10px;
+}
+
+.header-heading {
+  margin: 0;
+}

@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.configuration-controller {
+  background-color: #475569;
+  display: flex;
+  justify-content: center;
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
+
+.sub-container {
+  width: 90vw;
+}
+
+.main-heading {
+  color: #e2e8f0;
+  font-family: 'Roboto';
+  margin: 0px 0px 12px 0px;
+}
+
+.input-container {
+  color: #e2e8f0;
+  font-family: 'Roboto';
+  margin-bottom: 10px;
+}
+
+.label {
+  margin-left: 6px;
+}
